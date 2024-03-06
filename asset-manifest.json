@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/mordern-reacr/static/css/main.b0294d01.css",
+    "main.js": "/mordern-reacr/static/js/main.27efc07c.js",
+    "static/js/453.5985ba40.chunk.js": "/mordern-reacr/static/js/453.5985ba40.chunk.js",
+    "static/media/product.svg": "/mordern-reacr/static/media/product.cec0dd29fd0bee8cc2f6542953232179.svg",
+    "static/media/coca-cola.svg": "/mordern-reacr/static/media/coca-cola.965dc11836880f826ff9bbcc0b112b92.svg",
+    "static/media/google.svg": "/mordern-reacr/static/media/google.24beac8d1b17b6af70e78fe7e56896f0.svg",
+    "static/media/linkedin.svg": "/mordern-reacr/static/media/linkedin.1514f055507d55f41b21e0eacd49c4a6.svg",
+    "static/media/samsung.svg": "/mordern-reacr/static/media/samsung.e9ea9617ff4015d65bf24ee6786de59e.svg",
+    "static/media/facebook.svg": "/mordern-reacr/static/media/facebook.6cffdd00c5e786bdf285848600b8078e.svg",
+    "static/media/feature2-img.svg": "/mordern-reacr/static/media/feature2-img.59f0d0748514ec4079a2a64d71b68155.svg",
+    "static/media/image.svg": "/mordern-reacr/static/media/image.cfa9f558172e5afbd82d3cf8b3ea4d9f.svg",
+    "static/media/feature1-img.svg": "/mordern-reacr/static/media/feature1-img.4395bc60b68e97af4c2b5f9954ffbd7e.svg",
+    "static/media/feature3-img.svg": "/mordern-reacr/static/media/feature3-img.9c08469c439eea81a560e284bd765be0.svg",
+    "static/media/image2.svg": "/mordern-reacr/static/media/image2.a8be0502054555ebaed7a149eab1f75d.svg",
+    "static/media/image1.svg": "/mordern-reacr/static/media/image1.4e0ccc01345a3be7805b900127dfe5be.svg",
+    "static/media/logo.svg": "/mordern-reacr/static/media/logo.f5e0a1160701a9473042d46ad25c927d.svg",
+    "static/media/bg.svg": "/mordern-reacr/static/media/bg.f64d9f24b81fbdccd03d.svg",
+    "static/media/twitter.svg": "/mordern-reacr/static/media/twitter.457be4eb34ddf25a54811f6184b9ee98.svg",
+    "static/media/icon2.svg": "/mordern-reacr/static/media/icon2.25b1f94087bd23f825d1d66c30e6e76e.svg",
+    "index.html": "/mordern-reacr/index.html",
+    "static/media/icon3.svg": "/mordern-reacr/static/media/icon3.0be458fcf41948981c27c740707b5d94.svg",
+    "static/media/icon1.svg": "/mordern-reacr/static/media/icon1.b20cada9e90d0d074a1d6f16f9d1ae05.svg",
+    "static/media/arrow-right.svg": "/mordern-reacr/static/media/arrow-right.98fec310f4a0831472756a8a7c5055f5.svg",
+    "static/media/arrow.svg": "/mordern-reacr/static/media/arrow.4b4cc4449bb20eb4976f621789ffded0.svg",
+    "main.b0294d01.css.map": "/mordern-reacr/static/css/main.b0294d01.css.map",
+    "main.27efc07c.js.map": "/mordern-reacr/static/js/main.27efc07c.js.map",
+    "453.5985ba40.chunk.js.map": "/mordern-reacr/static/js/453.5985ba40.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0294d01.css",
+    "static/js/main.27efc07c.js"
+  ]
+}
